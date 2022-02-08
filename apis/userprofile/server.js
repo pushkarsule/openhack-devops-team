@@ -2,6 +2,8 @@
 
 require('dotenv').config()
 
+/* all vars related with server */
+
 var Http = require('http');
 var Express = require('express');
 var BodyParser = require('body-parser');
