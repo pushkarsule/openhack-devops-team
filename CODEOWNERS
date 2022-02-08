@@ -24,22 +24,22 @@
 # the octocats team in the octo-org organization owns all .txt files.
 #*.txt @octo-org/octocats
 
-# In this example, @doctocat owns any files in the build/logs
+# In this example, @adelgado99 owns any files in the build/logs
 # directory at the root of the repository and any of its
 # subdirectories.
-/apis/poi @doctocat
+/apis/poi @adelgado99
 
-# In this example, @doctocat owns any files in the build/logs
+# In this example, @edkochma owns any files in the build/logs
 # directory at the root of the repository and any of its
 # subdirectories.
-/apis/trips @doctocat
+/apis/trips @edkochma
 
-# In this example, @doctocat owns any files in the build/logs
+# In this example, @tcardosoMSFT owns any files in the build/logs
 # directory at the root of the repository and any of its
 # subdirectories.
-/apis/user-java @doctocat
+/apis/user-java @tcardosoMSFT
 
-# In this example, @doctocat owns any files in the build/logs
+# In this example, @brhacker owns any files in the build/logs
 # directory at the root of the repository and any of its
 # subdirectories.
-/apis/userprofile @doctocat
+/apis/userprofile @brhacker
